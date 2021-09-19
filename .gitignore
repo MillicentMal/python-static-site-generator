@@ -69,3 +69,4 @@ instance/
 # Virtualenv
 venv/
 .venv/
+*.swp
